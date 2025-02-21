@@ -5,6 +5,8 @@
 
 ## My pet projecs: 
 
+[![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game)](https://github.com/leaomartelo2/wireframe_game)
+
 [Wireframe](https://github.com/LeaoMartelo2/wireframe_game) + [Wireframe Editor](https://github.com/leaomartelo2/wireframe_editor)
 <img src="images/wireframe_menu.png?raw=true"/>
 
