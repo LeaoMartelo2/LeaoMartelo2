@@ -6,7 +6,7 @@
 ## My pet projecs: 
 
 [Wireframe](https://github.com/LeaoMartelo2/wireframe_game)
-<img src="wireframe/menu?raw=true"/>
+<img src="wireframe/menu.png?raw=true"/>
 
 [LogNest](https://github.com/LeaoMartelo2/LogNest)
 
