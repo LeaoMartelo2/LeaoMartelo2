@@ -8,8 +8,8 @@
 [Wireframe](https://github.com/LeaoMartelo2/wireframe_game) + [Wireframe Editor](https://github.com/leaomartelo2/wireframe_editor)
 <img src="images/wireframe_menu.png?raw=true"/>
 
-[LogNest](https://github.com/LeaoMartelo2/LogNest)
-<img src="images/lognest.png?raw=true"/>
+[LogNest](https://github.com/LeaoMartelo2/LogNest) + [NestReader](https://github.com/LeaoMartelo2/nestreader)
+<img src="images/lognest_bigger.png?raw=true"/>
 
 
 
