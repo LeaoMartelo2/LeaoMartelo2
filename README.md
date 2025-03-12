@@ -3,7 +3,7 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&theme=github_dark&hide=zig)
 
 
-## My pet projecs: 
+## My pet projects: 
 
 [![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_game)
 <img src="images/wireframe_menu.png" width=500/>
