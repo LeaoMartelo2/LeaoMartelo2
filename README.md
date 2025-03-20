@@ -32,7 +32,6 @@
 
 <br>
 
-[![NestReader](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=nestreader&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/nestreader)
 
 <a target="_blank" href="https://github.com/leaomartelo2/nestreader">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=nestreader&theme=github_dark&show_owner=true">
