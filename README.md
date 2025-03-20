@@ -11,12 +11,14 @@
 <div align="center">
 
 [![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_game)
+<br>
 <img src="images/wireframe_menu.png" width=500/>
 
 [![Wireframe Editor](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_editor&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_editor)
 
 
 [![LogNest](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=lognest&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/lognest)
+<br>
 <img src="images/lognest_bigger.png" width=500/>
 
 [![NestReader](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=nestreader&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/nestreader)
