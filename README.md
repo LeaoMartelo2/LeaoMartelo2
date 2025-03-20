@@ -11,7 +11,8 @@
     <br>
     <div align="center">
 
-[![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_game)
+<!--[![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_game)-->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true">
 <br>
 <img src="images/wireframe_menu.png" width=500/>
 
