@@ -7,9 +7,9 @@
 </div>
 
 <details>
-<sumary><strong>My favorite projects</strong></sumary>
-<br>
-<div align="center">
+    <sumary><strong>My favorite projects</strong></sumary>
+    <br>
+    <div align="center">
 
 [![Wireframe](https://github-readme-stats.vercel.app/api/pin/?username=LeaoMartelo2&repo=wireframe_game&theme=github_dark&show_owner=true)](https://github.com/leaomartelo2/wireframe_game)
 <br>
