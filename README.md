@@ -1,5 +1,7 @@
 ## LeaoMartelo
 
+useless stats:
+
 <div align="center">
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&theme=github_dark&hide=zig)
