@@ -4,8 +4,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&theme=github_dark&langs_count=20#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&theme=default&langs_count=20#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&theme=github_dark&langs_count=20)
 
 
 ### fake internet points:
